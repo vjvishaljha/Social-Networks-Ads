@@ -4,7 +4,7 @@ Logistic regression is a classification algorithm used to assign observations to
 
 for more -https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html
 
-#K Nearest Neihbours
+#K Nearest Neighbors 
 
 The model representation for KNN is the entire training dataset.
 
@@ -18,10 +18,11 @@ Because the entire training dataset is stored, you may want to think carefully a
 
 KNN works well with a small number of input variables (p), but struggles when the number of inputs is very large.
 
-## Dataset can be downloaded from - https://www.kaggle.com/rakeshrau/social-network-ads#Social_Network_Ads.csv
+Dataset can be downloaded from - https://www.kaggle.com/rakeshrau/social-network-ads#Social_Network_Ads.csv
 
 ## Our Goal is to predict whether a person will be able to buy a car depending upon his age and his salary
 
 Using Logistic Regression we achived an accuracy of - 0.875
+
 Using K Nearest Neighbours we achived an accuracy of -  0.9166666666666666 
 
